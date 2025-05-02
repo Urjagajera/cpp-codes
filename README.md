@@ -1,6 +1,6 @@
 # ⚙️ cpp-codes
 
-Welcome to **cpp-craft** – a curated collection of my C++ programs, concept demos, and practice problems!
+Welcome to **cpp-codes** – a curated collection of my C++ programs, concept demos, and practice problems!
 
 ---
 
