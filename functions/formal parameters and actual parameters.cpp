@@ -23,3 +23,4 @@ cout << " product is " << c ;
             
 return 0;    
 }
+
