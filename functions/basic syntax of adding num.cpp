@@ -1,5 +1,5 @@
 #include<iostream>  
-using namespace std; // Allows usage of standard C++ names without "std::" prefix
+using namespace std;
 
 // Function to add two integers and return the result
 int add(int a, int b) {
